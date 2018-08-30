@@ -51,9 +51,14 @@ h1:first-letter {
 
 .ramen{
   background-color: #FFFAF0;
-  display: inline-block;
+  width:100%;
 }
 
 .comment{
   display: inline-block;
+}
+
+.ken{
+  font-size: xx-large;
+  font-color:gray;
 }
