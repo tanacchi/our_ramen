@@ -52,6 +52,7 @@ h1:first-letter {
 .ramen{
   background-color: #FFFAF0;
   display: inline-block;
+  width: 100% 
 }
 
 .comment{
