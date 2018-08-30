@@ -2,7 +2,7 @@
 
 h1{
   border-top: solid 10px #000000;
-  border-bottom: solid 10px #6cb4e4;
+  border-bottom: solid 10px #FF6600;
   padding: 5px 5px 5px 42px;
   font-size: 80px;
 }
@@ -27,23 +27,32 @@ h1:first-letter {
   overflow: hidden;
   font-weight: bold;
   transition: .4s;
+  background-color:white;
 }
 
 .btn:hover {
-    background: #b3e1ff;
+    background: #FFC7AF;
 }
 
 .square_btn {
     display: inline-block;
     padding: 0.3em 3em;
     text-decoration: none;
-    color: #67c5ff;
-    border: solid 2px #67c5ff;
+    color: #FF6600;
+    border: solid 2px #FF6600;
     border-radius: 3px;
     transition: .4s;
 }
 
 .square_btn:hover {
-    background: #67c5ff;
+    background: #FF773E;
     color: white;
+}
+
+.ramen{
+  background-color: #FFFAF0;
+}
+
+.comment{
+  display: inline-block;
 }
